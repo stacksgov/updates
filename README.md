@@ -4,4 +4,4 @@ This repository contains regular updates on project status for the community. Wa
 
 ## Published
 
-No updates have been published yet. Published updates will be linked here.
+- [Stacks Governance Update #1 - 4 March, 2020](updates/20200304-update-001.md)
